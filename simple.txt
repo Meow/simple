@@ -1,0 +1,10 @@
+'simple'
+{
+  'title'         'simple'
+  'maps'          '^gm_'
+  'base'          'base'
+  'version'       '0.0.0.0.0.0.0.0.0.0.1'
+  'author'        'Luna'
+  'description'   'Simple framework for gamemodes.'
+  'workshopid'    '13333337'
+}
